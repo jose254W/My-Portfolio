@@ -4,6 +4,7 @@ import {
   AiFillTwitterCircle,
   AiFillLinkedin,
   AiFillFilePdf,
+  AiFillMail,
 } from "react-icons/ai";
 
 import { SocialIcons } from "../Header/HeaderStyles";
@@ -23,19 +24,14 @@ const Footer = () => {
     <FooterWrapper>
       <CompanyContainer>
         <Slogan>
-          If you are interested in working with me just drop me a short mail or
-          a text😊👇
+          If you are interested in working with me just drop me a short mail😊👇
         </Slogan>
       </CompanyContainer>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:+254710757199">+254710757199</LinkItem>
-        </LinkColumn>
-        <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:josephwaweru069@gmail.com">
-            josephwaweru069@gmail.com
+          <LinkItem href="mailto:josephwaweru069@gmail.com" target="_blank">
+            <AiFillMail size="5rem" />
           </LinkItem>
         </LinkColumn>
       </LinkList>

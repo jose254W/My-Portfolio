@@ -18,7 +18,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Experience with : <br />
             React.js <br />
             CSS <br />
             HTML <br />
@@ -31,7 +31,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Experience with : <br />
             Node.js <br />
             Express.js
           </ListParagraph>
@@ -42,7 +42,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Database</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Experience with : <br />
             MongoDB <br />
             MySQL <br />
             SQL

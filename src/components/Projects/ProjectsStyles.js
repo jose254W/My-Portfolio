@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 export const Img = styled.img`
-  width:90%;
-  height:100%;
+  width: 100%;
+  height: 50%;
   object-fit: cover;
 
 `
@@ -27,6 +27,7 @@ export const BlogCard = styled.div`
   box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
   text-align: center;
   width: 400px;
+  
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
     display: flex;
@@ -105,7 +106,8 @@ transition: 0.5s;
 
 export const TagList = styled.ul`
 display: flex;
-justify-content: space-around;
+justify-content: center;
+gap: 10px;
 padding: 2rem;
 `
 export const Tag = styled.li`
