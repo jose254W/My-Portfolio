@@ -8,12 +8,20 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Weather App ',
+    description:"The weather app built with React, HTML, and CSS is a user-friendly tool that displays current weather conditions from a weather API. It features a hover ability that allows users to access more detailed information by hovering over specific elements on the page.",
+    image: '/images/weather.jpeg',
+    tags: ['React', 'HTML', 'CSS'],
+    visit: 'https://github.com/jose254W/Weather-app',
+    id: 1,
+  },
+  {
     title: 'Number-Guessing-Game ',
     description:"This is a number guessing app that i created using PSQL, It generates random numbers to guess.",
    // image: '/images/2.png',
     tags: ['PSQL', ' PostgreSQL'],
     visit: 'https://github.com/jose254W/Number-Guessing-Game',
-    id: 1,
+    id: 2,
   },
   
   
