@@ -49,7 +49,7 @@ const Footer = () => {
           <SocialIcons href="https://twitter.com/jose_weru254" target="_blank">
             <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
-          <SocialIcons href="/waweru.pdf" target="_blank">
+          <SocialIcons href="https://rxresu.me/r/5djyiLth" target="_blank">
             <AiFillFilePdf size="4rem" align-items="center" />
           </SocialIcons>
         </SocialContainer>

@@ -16,12 +16,20 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Restaurant App ',
+    description:"The restaurant app built with React, CSS and HTML provides a modern, user-friendly interface for customers to browse menus and make reservations. The clean design, responsive layout, and intuitive navigation make accessing the app on any device a breeze. CSS adds visual appeal and HTML provides structure, while React gives the app dynamic capabilities, streamlining the reservation process.",
+    image: '/images/Restaurant.jpeg',
+    tags: ['React', 'CSS', 'Javascript', 'HTML'],
+    visit: 'https://github.com/jose254W/Restaurant-',
+    id: 2,
+  },
+  {
     title: 'Number-Guessing-Game ',
     description:"This is a number guessing app that i created using PSQL, It generates random numbers to guess.",
    // image: '/images/2.png',
     tags: ['PSQL', ' PostgreSQL'],
     visit: 'https://github.com/jose254W/Number-Guessing-Game',
-    id: 2,
+    id: 3,
   },
   
   
