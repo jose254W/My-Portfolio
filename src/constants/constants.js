@@ -4,8 +4,19 @@ export const projects = [
     description: "Using React, Node.js, Express & MongoDB A Full Stack MERN Application. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
       image: '/images/memories.jpeg',
       tags: ['Mongo', 'Express', 'React', 'Node'],
+      source: 'https://m3m0.netlify.app',
     visit: 'https://github.com/jose254W/Memories-App',
+   
     id: 0,
+  },
+  {
+    title: 'Restaurant App ',
+    description:"The restaurant app built with React, CSS and HTML provides a modern, user-friendly interface for customers to browse menus and make reservations. The clean design, responsive layout, and intuitive navigation make accessing the app on any device a breeze. CSS adds visual appeal and HTML provides structure, while React gives the app dynamic capabilities, streamlining the reservation process.",
+    image: '/images/Restaurant.jpeg',
+    tags: ['React', 'CSS', 'Javascript', 'HTML'],
+    source:'https://mjdiners.netlify.app',
+    visit: 'https://github.com/jose254W/Restaurant-',
+    id: 1,
   },
   {
     title: 'Weather App ',
@@ -13,14 +24,6 @@ export const projects = [
     image: '/images/weather.jpeg',
     tags: ['React', 'HTML', 'CSS'],
     visit: 'https://github.com/jose254W/Weather-app',
-    id: 1,
-  },
-  {
-    title: 'Restaurant App ',
-    description:"The restaurant app built with React, CSS and HTML provides a modern, user-friendly interface for customers to browse menus and make reservations. The clean design, responsive layout, and intuitive navigation make accessing the app on any device a breeze. CSS adds visual appeal and HTML provides structure, while React gives the app dynamic capabilities, streamlining the reservation process.",
-    image: '/images/Restaurant.jpeg',
-    tags: ['React', 'CSS', 'Javascript', 'HTML'],
-    visit: 'https://github.com/jose254W/Restaurant-',
     id: 2,
   },
   {
