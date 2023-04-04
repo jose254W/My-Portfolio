@@ -14,6 +14,12 @@ import {
 
 const data = [
   {
+    title: "Google",
+    description: "Google Cloud Certificate",
+    visit:
+      "/images/google.pdf",
+  },
+  {
     title: "freecodecamp",
     description: "Responsive Web Design",
     visit:
