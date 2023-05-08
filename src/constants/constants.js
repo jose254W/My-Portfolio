@@ -3,7 +3,7 @@ export const projects = [
     title: 'AutoQuest Cars',
      description: "I've built a car rental and buying web app with ReactJS, TypeScript, Tailwind CSS, NestJS, PostgreSQL, GraphQL, and NodeJS. It has a smooth interface, type safety, customizable design, powerful backend, efficient data management, and flexible data querying. Overall, it provides a reliable and user-friendly platform.",
        image: '/images/Autoquest.jpeg',
-       tags: ['Typescript', 'GraphQl', 'React', 'Node', 'PostgrSQL', 'Nestjs', 'Tailwind CSS'],
+       tags: ['Typescript', 'GraphQl', 'React', 'PostgrSQL', 'Nestjs'],
        source: 'https://autoquest.netlify.app',
      visit: 'https://github.com/jose254W/AutoQuest-cars',
     
