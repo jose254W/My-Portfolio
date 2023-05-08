@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: 'AutoQuest Cars',
+     description: "I've built a car rental and buying web app with ReactJS, TypeScript, Tailwind CSS, NestJS, PostgreSQL, GraphQL, and NodeJS. It has a smooth interface, type safety, customizable design, powerful backend, efficient data management, and flexible data querying. Overall, it provides a reliable and user-friendly platform.",
+       image: '/images/Autoquest.jpeg',
+       tags: ['Typescript', 'GraphQl', 'React', 'Node', 'PostgrSQL', 'Nestjs', 'Tailwind CSS'],
+       source: 'https://autoquest.netlify.app',
+     visit: 'https://github.com/jose254W/AutoQuest-cars',
+    
+     id: 0,
+   },
+  {
    title: 'MERN Memories',
     description: "Using React, Node.js, Express & MongoDB A Full Stack MERN Application. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
       image: '/images/memories.jpeg',
@@ -7,7 +17,7 @@ export const projects = [
       source: 'https://m3m0.netlify.app',
     visit: 'https://github.com/jose254W/Memories-App',
    
-    id: 0,
+    id: 1,
   },
   {
     title: 'Restaurant App ',
@@ -16,7 +26,7 @@ export const projects = [
     tags: ['React', 'CSS', 'Javascript', 'HTML'],
     source:'https://mjdiners.netlify.app',
     visit: 'https://github.com/jose254W/Restaurant-',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Weather App ',
@@ -24,7 +34,7 @@ export const projects = [
     image: '/images/weather.jpeg',
     tags: ['React', 'HTML', 'CSS'],
     visit: 'https://github.com/jose254W/Weather-app',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Number-Guessing-Game ',
@@ -32,7 +42,7 @@ export const projects = [
    // image: '/images/2.png',
     tags: ['PSQL', ' PostgreSQL'],
     visit: 'https://github.com/jose254W/Number-Guessing-Game',
-    id: 3,
+    id: 5,
   },
   
   
