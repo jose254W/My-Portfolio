@@ -64,9 +64,9 @@ const Header = () => (
       <SocialIcons href="https://twitter.com/jose_weru254" target="_blank">
         <AiFillTwitterCircle size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://rxresu.me/josewawe75/joseph" target="_blank">
-            <AiFillFilePdf size="4rem" align-items="center" />
-          </SocialIcons>
+      <SocialIcons href="/joseph.docx" target="_blank"> 
+        <AiFillFilePdf size="4rem" style={{ alignItems: 'center' }} />
+      </SocialIcons>
     </Div3>
   </Container>
 );

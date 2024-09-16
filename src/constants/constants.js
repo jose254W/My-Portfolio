@@ -51,12 +51,15 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Worked as a cyber attendant', },
-  { year: 2018, text: 'Worked as a brand ambassador for Oppo Kenya',},
-  { year: 2020, text: 'customer service and sales associate at Copia Kenya',},
-  { year: 2022, text: 'customer service at Multichoice Kenya till July',},
-  { year: 2022, text: 'Learning at FreeCodeCamp full-time',},
-  { year: 2022, text: 'Open Source project at Andela Kenya',},
+  { year: 2024, text: 'software Developer at GICT Systems and Tutor at 360 climate institute',},
+  { year: 2023, text: 'software Developer at GICT Systems',},
   { year: 2022, text: 'Cloud associate at Google Africa Developer Scholarship powered by Andela, Google, and Pluralsight ',},
+  { year: 2022, text: 'Open Source project at Andela Kenya',},
+  { year: 2022, text: 'Learning at FreeCodeCamp full-time',},
+  { year: 2022, text: 'customer service at Multichoice Kenya till July',},
+  { year: 2020, text: 'customer service and sales associate at Copia Kenya',},
+  { year: 2018, text: 'Worked as a brand ambassador for Oppo Kenya',},
+  { year: 2017, text: 'Worked as a cyber attendant', },
 ];
+
 
